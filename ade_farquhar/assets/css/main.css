@@ -2109,6 +2109,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			font-size: 22px;
 		}
 
 			ul.icons li {
@@ -2528,6 +2529,11 @@
 			width: 100%;
 		}
 
+			#header > footer p {
+				margin: 0;
+				padding: 5px 0 0 0;
+			}
+
 			#header > footer .icons {
 				margin: 0;
 			}
@@ -2665,7 +2671,7 @@
 				}
 
 				#header > footer {
-					padding: 1.5em;
+					padding: 1em;
 				}
 
 		/* Wrapper */
