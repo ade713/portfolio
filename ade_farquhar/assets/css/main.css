@@ -2044,7 +2044,6 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2.25em 0;
 		padding-left: 1em;
 	}
 
@@ -2075,11 +2074,16 @@
 			ul.feature-icons li {
 				text-decoration: none;
 				display: inline-block;
-				margin: 0 0 1.6875em 0;
-				padding: 0.35em 0 0 3.5em;
+				margin: 0 0 0.75em 0;
 				position: relative;
 				vertical-align: top;
-				width: 48%;
+				width: 24%;
+				font-size: 4.75em;
+				color: #C4D7F2;
+			}
+
+			ul.feature-icons li:hover {
+				color: #3f88c5;
 			}
 
 				ul.feature-icons li:before {
