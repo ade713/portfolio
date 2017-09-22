@@ -2559,7 +2559,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #386FA4;
+					border-top: solid 2px #C4D7F2;
 					display: block;
 					padding: 0;
 				}
@@ -2595,7 +2595,7 @@
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #C4D7F2;
 	}
 
 		#main > section > .container {
