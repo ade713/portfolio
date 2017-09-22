@@ -2626,11 +2626,12 @@
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #3F88C5;
 		border-top: 0;
-		color: #c0c0c0;
+		color: #FFF;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 1.75em 0 1.5em 1em;
+		font-size: 18px;
 	}
 
 		#footer .copyright {
