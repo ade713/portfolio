@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #386FA4;
 		font-size: 3.5em;
 	}
 
@@ -2462,7 +2462,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #3f88C5;
 		color: #FFF;
 		height: 100%;
 		overflow-y: auto;
@@ -2815,7 +2815,7 @@
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
+				background: #3f88C5;
 				color: #fff;
 				min-width: 320px;
 			}
@@ -2857,7 +2857,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #3f88C5;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
