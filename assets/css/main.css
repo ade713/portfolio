@@ -2639,6 +2639,11 @@
 		font-size: 18px;
 	}
 
+		#footer a:hover {
+			border-bottom-color: transparent;
+			color: #000 !important;
+		}
+
 		#footer .copyright {
 			line-height: 1em;
 			list-style: none;
