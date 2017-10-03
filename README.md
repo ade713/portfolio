@@ -1,5 +1,5 @@
 # Adé Farquhar's Porfolio Page #
-Feel free to visit my personal page [here](adefarquhar.me).
+Feel free to visit my personal page [here](http://adefarquhar.me).
 
 ## Credits ##
 
